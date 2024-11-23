@@ -34,7 +34,6 @@ ct_
 
 ```
 :g/pattern/d
-
 ```
 
 ## Add text before each visually selected line(s)
